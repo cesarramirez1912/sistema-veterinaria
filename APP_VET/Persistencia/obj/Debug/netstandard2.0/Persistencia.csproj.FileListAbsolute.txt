@@ -1,0 +1,51 @@
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\ramir\source\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+C:\Users\ramir\source\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\ramir\source\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\ramir\source\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\ramir\source\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\ramir\source\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\ramir\source\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\ramir\source\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\ramir\source\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+C:\Users\ramir\source\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+C:\Users\ramir\source\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+C:\Users\ramir\source\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.deps.json
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csprojAssemblyReference.cache
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.AssemblyInfo.cs
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.csproj.CopyComplete
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\obj\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Persistencia\bin\Debug\netstandard2.0\System.Security.dll

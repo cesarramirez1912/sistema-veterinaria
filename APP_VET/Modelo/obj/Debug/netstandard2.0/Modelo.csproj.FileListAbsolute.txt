@@ -1,0 +1,40 @@
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\ramir\source\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\ramir\source\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\ramir\source\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\ramir\source\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ramir\source\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\ramir\source\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\ramir\source\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\ramir\source\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\ramir\source\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csprojAssemblyReference.cache
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CopyComplete

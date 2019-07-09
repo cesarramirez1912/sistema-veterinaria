@@ -1,0 +1,59 @@
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.pdb
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.dll
+F:\alexa\Desktop\Projeto Final\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.pdb
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.dll
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.pdb
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.dll
+C:\Users\Alexandro\Downloads\APP_VET-20190613T104749Z-001\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.pdb
+C:\Users\ramir\source\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+C:\Users\ramir\source\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.dll
+C:\Users\ramir\source\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.pdb
+C:\Users\ramir\source\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\ramir\source\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\ramir\source\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\ramir\source\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\ramir\source\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+C:\Users\ramir\source\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+C:\Users\ramir\source\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+C:\Users\ramir\source\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+C:\Users\ramir\source\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+C:\Users\ramir\source\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.dll
+C:\Users\ramir\source\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.pdb
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.deps.json
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\bin\Debug\netstandard2.0\Servico.pdb
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\bin\Debug\netstandard2.0\Persistencia.pdb
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csprojAssemblyReference.cache
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfoInputs.cache
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.AssemblyInfo.cs
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.csproj.CopyComplete
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\obj\Debug\netstandard2.0\Servico.pdb
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\ramir\Desktop\OrientadaEbancoDeDatos\APP_VET\Servico\bin\Debug\netstandard2.0\System.Security.dll
